@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-cream text-charcoal font-sans font-light antialiased overflow-x-hidden;
+  }
+  h1, h2, h3, h4 {
+    @apply font-sans font-normal tracking-tight;
+  }
+}
+
+/* Smooth scrolling for the whole page */
+html {
+  scroll-behavior: smooth;
+}
