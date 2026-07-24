@@ -36,7 +36,7 @@ const Hero = () => {
         {/* Main Portrait Image */}
         <div className="relative w-full h-full rounded-[200px_200px_20px_20px] overflow-hidden shadow-2xl">
           <img 
-            src="/images/portrait.png" 
+            src="/leyla-portfolio/images/portrait.png" 
             alt="Leyla Agatalibova"
             className="w-full h-full object-cover"
             onError={(e) => {

@@ -94,25 +94,25 @@ export const translations = {
       viewMoreDesc: "Explore the complete collection of design projects in the full gallery.",
       viewMoreBtn: "View All Projects",
       items: [
-        { id: 1, category: "Branding", title: "Reflection", image: "/images/design-1.png", link: "#" },
-        { id: 2, category: "Social Media", title: "Porche", image: "/images/design-2.png", link: "#" },
-        { id: 3, category: "Print Design", title: "Jump", image: "/images/design-3.png", link: "#" },
-        { id: 4, category: "UI/UX", title: "Nike", image: "/images/design-4.png", link: "#" },
-        { id: 5, category: "UI/UX", title: "Travel to Rotterdam", image: "/images/design-5.png", link: "#" },
-        { id: 6, category: "UI/UX", title: "Nike", image: "/images/design-6.png", link: "#" },
-        { id: 7, category: "UI/UX", title: "CupCake", image: "/images/design-7.png", link: "#" },
-        { id: 8, category: "Instagram Post", title: "German Language", image: "/images/design-8.png", link: "#" },
-        { id: 9, category: "Instagram Post", title: "IELTS", image: "/images/design-9.png", link: "#" },
-        { id: 10, category: "Instagram Post", title: "IELTS", image: "/images/design-10.png", link: "#" },
-        { id: 11, category: "Instagram Post", title: "Discount", image: "/images/design-11.png", link: "#" },
-        { id: 12, category: "Instagram Post", title: "Russian Language", image: "/images/design-12.png", link: "#" },
-        { id: 13, category: "Instagram Post", title: "Corporate Trainings", image: "/images/design-13.png", link: "#" },
-        { id: 14, category: "Instagram Post", title: "English for Students", image: "/images/design-14.png", link: "#" },
-        { id: 15, category: "Instagram Post", title: "Time to learn Russian!", image: "/images/design-15.png", link: "#" },
-        { id: 16, category: "Instagram Post", title: "Register for September Groups", image: "/images/design-16.png", link: "#" },
-        { id: 17, category: "Instagram Post", title: "English for Students", image: "/images/design-17.png", link: "#" },
-        { id: 18, category: "Instagram Post", title: "English for Kids", image: "/images/design-18.png", link: "#" },
-        { id: 19, category: "Instagram Post", title: "English for Kids", image: "/images/design-19.png", link: "#" }
+        { id: 1, category: "Branding", title: "Reflection", image: "/leyla-portfolio/images/design-1.png", link: "#" },
+        { id: 2, category: "Social Media", title: "Porche", image: "/leyla-portfolio/images/design-2.png", link: "#" },
+        { id: 3, category: "Print Design", title: "Jump", image: "/leyla-portfolio/images/design-3.png", link: "#" },
+        { id: 4, category: "UI/UX", title: "Nike", image: "/leyla-portfolio/images/design-4.png", link: "#" },
+        { id: 5, category: "UI/UX", title: "Travel to Rotterdam", image: "/leyla-portfolio/images/design-5.png", link: "#" },
+        { id: 6, category: "UI/UX", title: "Nike", image: "/leyla-portfolio/images/design-6.png", link: "#" },
+        { id: 7, category: "UI/UX", title: "CupCake", image: "/leyla-portfolio/images/design-7.png", link: "#" },
+        { id: 8, category: "Instagram Post", title: "German Language", image: "/leyla-portfolio/images/design-8.png", link: "#" },
+        { id: 9, category: "Instagram Post", title: "IELTS", image: "/leyla-portfolio/images/design-9.png", link: "#" },
+        { id: 10, category: "Instagram Post", title: "IELTS", image: "/leyla-portfolio/images/design-10.png", link: "#" },
+        { id: 11, category: "Instagram Post", title: "Discount", image: "/leyla-portfolio/images/design-11.png", link: "#" },
+        { id: 12, category: "Instagram Post", title: "Russian Language", image: "/leyla-portfolio/images/design-12.png", link: "#" },
+        { id: 13, category: "Instagram Post", title: "Corporate Trainings", image: "/leyla-portfolio/images/design-13.png", link: "#" },
+        { id: 14, category: "Instagram Post", title: "English for Students", image: "/leyla-portfolio/images/design-14.png", link: "#" },
+        { id: 15, category: "Instagram Post", title: "Time to learn Russian!", image: "/leyla-portfolio/images/design-15.png", link: "#" },
+        { id: 16, category: "Instagram Post", title: "Register for September Groups", image: "/leyla-portfolio/images/design-16.png", link: "#" },
+        { id: 17, category: "Instagram Post", title: "English for Students", image: "/leyla-portfolio/images/design-17.png", link: "#" },
+        { id: 18, category: "Instagram Post", title: "English for Kids", image: "/leyla-portfolio/images/design-18.png", link: "#" },
+        { id: 19, category: "Instagram Post", title: "English for Kids", image: "/leyla-portfolio/images/design-19.png", link: "#" }
       ]
     },
     webdev: {
@@ -125,7 +125,7 @@ export const translations = {
           title: "LIB Calculator",
           description: "A pricing calculation and registration system designed for a language course. Users can instantly calculate the total payment by selecting the course, teacher, lesson format, and schedule.",
           tags: ["React", "Next.js", "Sass"],
-          screenshot: "/images/web-1.png",
+          screenshot: "/leyla-portfolio/images/web-1.png",
           demoLink: "https://calculator-phi-taupe.vercel.app/"
         },
         {
@@ -133,7 +133,7 @@ export const translations = {
           title: "ATU Innovation Center",
           description: "A platform developed for the Innovation Center of Azerbaijan Technology University. It combines startup incubation, mentors, events, and a management dashboard.",
           tags: ["JavaScript", "HTML/CSS", "Chart.js"],
-          screenshot: "/images/web-2.png",
+          screenshot: "/leyla-portfolio/images/web-2.png",
           demoLink: "https://atu-innov.vercel.app/"
         },
         {
@@ -141,7 +141,7 @@ export const translations = {
           title: "HR-AI",
           description: "An AI-based human resources platform. It offers modern, interactive, and user-oriented solutions for candidate evaluation and HR process management.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-3.png",
+          screenshot: "/leyla-portfolio/images/web-3.png",
           demoLink: "https://hr-ai-ruby.vercel.app/"
         },
         {
@@ -149,7 +149,7 @@ export const translations = {
           title: "Volunteer Hub",
           description: "A management system designed to simplify volunteer registration, coordination, and administration.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-4.png",
+          screenshot: "/leyla-portfolio/images/web-4.png",
           demoLink: "https://volunteer-hub-gamma.vercel.app/"
         },
         {
@@ -157,7 +157,7 @@ export const translations = {
           title: "RekrutAZ",
           description: "An AI-assisted recruitment system. It covers CV uploading, AI-based candidate evaluation, interview scheduling, and email template management.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-5.png",
+          screenshot: "/leyla-portfolio/images/web-5.png",
           demoLink: "https://rekurt-az.vercel.app/"
         },
         {
@@ -165,7 +165,7 @@ export const translations = {
           title: "Cafe Aroma Menu",
           description: "A digital QR menu system designed for restaurants and cafes. It ensures menus are presented online and conveniently.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-6.png",
+          screenshot: "/leyla-portfolio/images/web-6.png",
           demoLink: "https://cafe-aroma-menu.vercel.app/az"
         },
         {
@@ -173,7 +173,7 @@ export const translations = {
           title: "Personal Portfolio",
           description: "A personal portfolio website showcasing my projects, technical skills, and professional experience.",
           tags: ["React", "Tailwind", "Framer Motion"],
-          screenshot: "/images/web-7.png",
+          screenshot: "/leyla-portfolio/images/web-7.png",
           demoLink: "https://portfolio-phi-one-64.vercel.app/"
         },
         {
@@ -181,7 +181,7 @@ export const translations = {
           title: "LIORA E-commerce",
           description: "An e-commerce platform designed for selling jewelry and accessories. It combines a product catalog, categories, and cart functionality.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-8.png",
+          screenshot: "/leyla-portfolio/images/web-8.png",
           demoLink: "https://ecom-app-main.vercel.app/"
         },
         {
@@ -189,7 +189,7 @@ export const translations = {
           title: "Z-House Engineering",
           description: "A corporate website presenting modern architecture and engineering projects with a premium and minimalist design.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-9.png",
+          screenshot: "/leyla-portfolio/images/web-9.png",
           demoLink: "https://my-portfolio-ochre-alpha-29.vercel.app/"
         },
         {
@@ -197,7 +197,7 @@ export const translations = {
           title: "Reshape Engineer Project",
           description: "An interactive corporate platform presenting construction and engineering services through a user-friendly interface, high performance, and modern design.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-10.png",
+          screenshot: "/leyla-portfolio/images/web-10.png",
           demoLink: "https://second-project-sooty.vercel.app/"
         }
       ]
@@ -310,25 +310,25 @@ export const translations = {
       viewMoreDesc: "Dizayn layihələrinin tam kolleksiyasını qalereyada kəşf edin.",
       viewMoreBtn: "Bütün Layihələrə Bax",
       items: [
-        { id: 1, category: "Brending", title: "Reflection", image: "/images/design-1.png", link: "#" },
-        { id: 2, category: "Sosial Media", title: "Porche", image: "/images/design-2.png", link: "#" },
-        { id: 3, category: "Çap Dizaynı", title: "Jump", image: "/images/design-3.png", link: "#" },
-        { id: 4, category: "UI/UX", title: "Nike", image: "/images/design-4.png", link: "#" },
-        { id: 5, category: "UI/UX", title: "Travel to Roterdam", image: "/images/design-5.png", link: "#" },
-        { id: 6, category: "UI/UX", title: "Nike", image: "/images/design-6.png", link: "#" },
-        { id: 7, category: "UI/UX", title: "CupCake", image: "/images/design-7.png", link: "#" },
-        { id: 8, category: "Instagram Post", title: "Alman Dili", image: "/images/design-8.png", link: "#" },
-        { id: 9, category: "Instagram Post", title: "IELTS", image: "/images/design-9.png", link: "#" },
-        { id: 10, category: "Instagram Post", title: "IELTS", image: "/images/design-10.png", link: "#" },
-        { id: 11, category: "Instagram Post", title: "Endirim", image: "/images/design-11.png", link: "#" },
-        { id: 12, category: "Instagram Post", title: "Rus Dili", image: "/images/design-12.png", link: "#" },
-        { id: 13, category: "Instagram Post", title: "Korporativ Təlimlər", image: "/images/design-13.png", link: "#" },
-        { id: 14, category: "Instagram Post", title: "Məktəblilər üçün İngilis Dili", image: "/images/design-14.png", link: "#" },
-        { id: 15, category: "Instagram Post", title: "Rus Dilini Öyrənməyin Əsl Zamanıdır!", image: "/images/design-15.png", link: "#" },
-        { id: 16, category: "Instagram Post", title: "Qeydiyyat Başladı!", image: "/images/design-16.png", link: "#" },
-        { id: 17, category: "Instagram Post", title: "Abituriyentlər üçün İngilis Dili Proqramı", image: "/images/design-17.png", link: "#" },
-        { id: 18, category: "Instagram Post", title: "Uşaqlar üçün ingilis Dili Proqramı", image: "/images/design-18.png", link: "#" },
-        { id: 19, category: "Instagram Post", title: "Uşaqlar üçün ingilis Dili Proqramı", image: "/images/design-19.png", link: "#" }
+        { id: 1, category: "Brending", title: "Reflection", image: "/leyla-portfolio/images/design-1.png", link: "#" },
+        { id: 2, category: "Sosial Media", title: "Porche", image: "/leyla-portfolio/images/design-2.png", link: "#" },
+        { id: 3, category: "Çap Dizaynı", title: "Jump", image: "/leyla-portfolio/images/design-3.png", link: "#" },
+        { id: 4, category: "UI/UX", title: "Nike", image: "/leyla-portfolio/images/design-4.png", link: "#" },
+        { id: 5, category: "UI/UX", title: "Travel to Roterdam", image: "/leyla-portfolio/images/design-5.png", link: "#" },
+        { id: 6, category: "UI/UX", title: "Nike", image: "/leyla-portfolio/images/design-6.png", link: "#" },
+        { id: 7, category: "UI/UX", title: "CupCake", image: "/leyla-portfolio/images/design-7.png", link: "#" },
+        { id: 8, category: "Instagram Post", title: "Alman Dili", image: "/leyla-portfolio/images/design-8.png", link: "#" },
+        { id: 9, category: "Instagram Post", title: "IELTS", image: "/leyla-portfolio/images/design-9.png", link: "#" },
+        { id: 10, category: "Instagram Post", title: "IELTS", image: "/leyla-portfolio/images/design-10.png", link: "#" },
+        { id: 11, category: "Instagram Post", title: "Endirim", image: "/leyla-portfolio/images/design-11.png", link: "#" },
+        { id: 12, category: "Instagram Post", title: "Rus Dili", image: "/leyla-portfolio/images/design-12.png", link: "#" },
+        { id: 13, category: "Instagram Post", title: "Korporativ Təlimlər", image: "/leyla-portfolio/images/design-13.png", link: "#" },
+        { id: 14, category: "Instagram Post", title: "Məktəblilər üçün İngilis Dili", image: "/leyla-portfolio/images/design-14.png", link: "#" },
+        { id: 15, category: "Instagram Post", title: "Rus Dilini Öyrənməyin Əsl Zamanıdır!", image: "/leyla-portfolio/images/design-15.png", link: "#" },
+        { id: 16, category: "Instagram Post", title: "Qeydiyyat Başladı!", image: "/leyla-portfolio/images/design-16.png", link: "#" },
+        { id: 17, category: "Instagram Post", title: "Abituriyentlər üçün İngilis Dili Proqramı", image: "/leyla-portfolio/images/design-17.png", link: "#" },
+        { id: 18, category: "Instagram Post", title: "Uşaqlar üçün ingilis Dili Proqramı", image: "/leyla-portfolio/images/design-18.png", link: "#" },
+        { id: 19, category: "Instagram Post", title: "Uşaqlar üçün ingilis Dili Proqramı", image: "/leyla-portfolio/images/design-19.png", link: "#" }
       ]
     },
     webdev: {
@@ -341,7 +341,7 @@ export const translations = {
           title: "LİB Kalkulyator",
           description: "Dil kursu üçün hazırlanmış qiymət hesablama və qeydiyyat sistemi. İstifadəçilər kursu, müəllimi, dərs formatını və cədvəli seçərək ümumi ödənişi anında hesablaya bilirlər.",
           tags: ["React", "Next.js", "Sass"],
-          screenshot: "/images/web-1.png",
+          screenshot: "/leyla-portfolio/images/web-1.png",
           demoLink: "https://calculator-phi-taupe.vercel.app/"
         },
         {
@@ -349,7 +349,7 @@ export const translations = {
           title: "ATU İnnovasiya Mərkəzi",
           description: "Azərbaycan Texnologiya Universitetinin İnnovasiya Mərkəzi üçün hazırlanmış platforma. Startap inkubasiyası, mentorlar, tədbirlər və idarəetmə panelini özündə birləşdirir.",
           tags: ["JavaScript", "HTML/CSS", "Chart.js"],
-          screenshot: "/images/web-2.png",
+          screenshot: "/leyla-portfolio/images/web-2.png",
           demoLink: "https://atu-innov.vercel.app/"
         },
         {
@@ -357,7 +357,7 @@ export const translations = {
           title: "HR-Aİ",
           description: "Süni intellekt əsaslı insan resursları platforması. Namizədlərin qiymətləndirilməsi və HR proseslərinin idarə olunması üçün müasir, interaktiv və istifadəçi yönümlü həllər təqdim edir.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-3.png",
+          screenshot: "/leyla-portfolio/images/web-3.png",
           demoLink: "https://hr-ai-ruby.vercel.app/"
         },
         {
@@ -365,7 +365,7 @@ export const translations = {
           title: "Volunteer Hub",
           description: "Könüllülərin qeydiyyatı, koordinasiyası və idarə olunmasını asanlaşdırmaq üçün hazırlanmış idarəetmə sistemi.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-4.png",
+          screenshot: "/leyla-portfolio/images/web-4.png",
           demoLink: "https://volunteer-hub-gamma.vercel.app/"
         },
         {
@@ -373,7 +373,7 @@ export const translations = {
           title: "RekrutAZ",
           description: "Süni intellekt dəstəkli işə qəbul sistemi. CV yükləmə, AI ilə namizədlərin qiymətləndirilməsi, müsahibələrin planlaşdırılması və e-poçt şablonlarının idarə olunması funksiyalarını əhatə edir.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-5.png",
+          screenshot: "/leyla-portfolio/images/web-5.png",
           demoLink: "https://rekurt-az.vercel.app/"
         },
         {
@@ -381,7 +381,7 @@ export const translations = {
           title: "Cafe Aroma Menu",
           description: "Restoran və kafelər üçün hazırlanmış rəqəmsal QR menyu sistemi. Menyuların onlayn və rahat şəkildə təqdim edilməsini təmin edir.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-6.png",
+          screenshot: "/leyla-portfolio/images/web-6.png",
           demoLink: "https://cafe-aroma-menu.vercel.app/az"
         },
         {
@@ -389,7 +389,7 @@ export const translations = {
           title: "Portfolio",
           description: "Hazırladığım layihələri, texniki bacarıqlarımı və peşəkar təcrübəmi təqdim edən şəxsi portfolio veb-saytı.",
           tags: ["React", "Tailwind", "Framer Motion"],
-          screenshot: "/images/web-7.png",
+          screenshot: "/leyla-portfolio/images/web-7.png",
           demoLink: "https://portfolio-phi-one-64.vercel.app/"
         },
         {
@@ -397,7 +397,7 @@ export const translations = {
           title: "LIORA E-commerce",
           description: "Zinət əşyaları və aksesuarların satışı üçün hazırlanmış e-ticarət platforması. Məhsul kataloqu, kateqoriyalar və səbət funksiyalarını özündə birləşdirir.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-8.png",
+          screenshot: "/leyla-portfolio/images/web-8.png",
           demoLink: "https://ecom-app-main.vercel.app/"
         },
         {
@@ -405,7 +405,7 @@ export const translations = {
           title: "Z-House Engineering",
           description: "Müasir memarlıq və mühəndislik layihələrini premium və minimalist dizaynla təqdim edən korporativ veb-sayt.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-9.png",
+          screenshot: "/leyla-portfolio/images/web-9.png",
           demoLink: "https://my-portfolio-ochre-alpha-29.vercel.app/"
         },
         {
@@ -413,7 +413,7 @@ export const translations = {
           title: "Reshape Engineer Project",
           description: "İnşaat və mühəndislik xidmətlərini istifadəçi dostu interfeys, yüksək performans və müasir dizayn vasitəsilə təqdim edən interaktiv korporativ platforma.",
           tags: ["React", "API", "CSS Modules"],
-          screenshot: "/images/web-10.png",
+          screenshot: "/leyla-portfolio/images/web-10.png",
           demoLink: "https://second-project-sooty.vercel.app/"
         }
       ]
