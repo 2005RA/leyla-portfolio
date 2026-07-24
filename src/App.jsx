@@ -13,11 +13,10 @@ import ProjectsPage from './components/ProjectsPage';
 function App() {
   return (
     <LanguageProvider>
-      <Router basename="/leyla-portfolio">
+      <Router basename="/leyla-portfolio"> {/* THIS MUST BE HERE */}
         <ScrollToTop />
         <div className="relative bg-cream min-h-screen">
           <Routes>
-            {/* Home Page */}
             <Route path="/" element={
               <>
                 <Navbar />
@@ -32,8 +31,6 @@ function App() {
                 </footer>
               </>
             } />
-            
-            {/* All Projects Page */}
             <Route path="/projects" element={
               <>
                 <Navbar />
