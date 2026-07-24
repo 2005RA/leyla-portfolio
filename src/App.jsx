@@ -1,7 +1,7 @@
 // src/App.jsx
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { LanguageProvider } from './context/LanguageContext';
-import ScrollToTop from './components/ScrollToTop'; // <-- Import this
+import ScrollToTop from './components/ScrollToTop';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
@@ -14,8 +14,8 @@ import ProjectsPage from './components/ProjectsPage';
 function App() {
   return (
     <LanguageProvider>
-      <Router>
-        <ScrollToTop /> {/* <-- Add this right here */}
+      <Router basename="/leyla-portfolio"> {/* <-- ADD THIS basename */}
+        <ScrollToTop />
         <div className="relative bg-cream">
           <Routes>
             {/* Home Page */}
