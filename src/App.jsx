@@ -13,7 +13,7 @@ import ProjectsPage from './components/ProjectsPage';
 function App() {
   return (
     <LanguageProvider>
-      <Router basename="/leyla-portfolio">
+      <Router>
         <ScrollToTop />
         <div className="relative bg-cream min-h-screen">
           <Routes>
