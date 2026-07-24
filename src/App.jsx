@@ -1,4 +1,3 @@
-// src/App.jsx
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { LanguageProvider } from './context/LanguageContext';
 import ScrollToTop from './components/ScrollToTop';
@@ -14,9 +13,9 @@ import ProjectsPage from './components/ProjectsPage';
 function App() {
   return (
     <LanguageProvider>
-      <Router basename="/leyla-portfolio"> {/* <-- ADD THIS basename */}
+      <Router basename="/leyla-portfolio">
         <ScrollToTop />
-        <div className="relative bg-cream">
+        <div className="relative bg-cream min-h-screen">
           <Routes>
             {/* Home Page */}
             <Route path="/" element={
